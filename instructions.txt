@@ -1,0 +1,10 @@
+2.1 Create the necessary C# classes to represent orders and their items with appropriate properties and
+data types.
+
+2.2 Implement a method that calculates the final price of an order, applying the discount rule when
+applicable.
+
+2.3 Implement a method that finds and returns the name of the customer who has spent the most
+money on all their orders.
+
+2.4 (Bonus) Implement a method that returns the popular products along with their total quantity sold.
