@@ -8,3 +8,5 @@ applicable.
 money on all their orders.
 
 2.4 (Bonus) Implement a method that returns the popular products along with their total quantity sold.
+
+I suppose popular products = most quantity sold
